@@ -1,0 +1,20 @@
+{
+  "blog": {
+    "url": "http://localhost:5000",
+    "title": "Nadaa's Blog",
+    "description": "My Musings on Health, Data, and Life",
+    "logo": "http://lorempixel.com/45/45/abstract/",
+    "cover": "http://lorempixel.com/1100/425/nature/"
+  },
+  "authors": {
+    "default": {
+      "name": "Nadaa Taiyab",
+      "bio": "Awesome person.",
+      "website": "http://localhost:5000/author/foo",
+      "image": "http://lorempixel.com/155/155/people/",
+      "cover": "http://lorempixel.com/1100/425/animals/",
+      "slug": "foo"
+    }
+  }
+}
+
